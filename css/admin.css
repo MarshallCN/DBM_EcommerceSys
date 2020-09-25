@@ -1,0 +1,148 @@
+/*Admin Order Management Page 
+-----------------------------------------------------------------------------*/
+	.order{
+		width:103%;
+	}
+	.order_block{
+		width:48%;
+		float:left;
+		height:310px;
+		margin-right:10px;
+		box-shadow: 0px 0px 0px #fff;
+	}
+	.order_blockselect{
+		width:48%;
+		float:left;
+		margin-right:10px;
+		background: #f8f8f8;
+		padding:15px;
+		padding-top:0;
+		padding-bottom: 5%;
+		margin-bottom: 12px;
+	}
+	.morerow{
+		position:absolute;
+		margin-top:270px;
+		margin-left:360px;
+	}
+	.delivery{
+		margin-top:20px;
+		position:absolute;
+	}
+	.editdelivery{
+		margin-top:-30px;
+		position:relative;
+	}
+	.btn-editdelivery{
+		margin-top:-8px;
+		margin-left:-3px;
+		position:relative;
+	}
+	.pricelabel{
+		float:right;
+		margin-top:20px;
+		margin-right:-10px;
+		font-size:1.2em;
+	}
+	.timecond{
+		margin-bottom:10px;
+	}
+/*Admin Product Management Page 
+-----------------------------------------------------------------------------*/
+	.addproduct{
+		width: 96%;
+		height: 200px;
+		background: #f8f8f8;
+		padding:5px;
+	}
+	.addproduct span{
+		margin-left: 30px;
+	}
+	.addproduct  img{
+		cursor:pointer;
+	}
+	.allitems{
+		margin-top:-10px;
+	}
+	.uppropic{
+		height:190px;
+		width:180px;
+		float:left;
+		background:#fff;
+	}
+	.prodinfo{
+		height:145px;
+		margin-top:5px;
+		margin-left:10px;
+		width:680px;
+		float:left;
+	}
+	.btn-canceledit{
+		float:left;
+		margin-top:65px;
+		margin-left: 5px;
+		display:none;
+		width: 150px;
+	}
+	.btn-delprod{
+		position:absolute;
+		margin:5px;
+		display: none;
+	}
+	.btn-newprod{
+		position:absolute;
+		margin-top: 110px;
+		margin-left: 5px;
+		width: 150px;
+	}
+	.btn-add{
+		display: none;
+	}
+/*Admin Customer Management Page 
+-----------------------------------------------------------------------------*/
+	.rep_customer{
+		width:49%;
+		float:left;
+	}
+	.cus_report{
+		background: #F8F8F8;
+		margin-bottom:5px;
+		padding:10px;
+		width:99%;
+	}
+	.block_bar{
+		float:left;
+		width:0%;
+		height:30px;
+		background: #3A78AB;
+	}
+	.bar_lable{
+		float:left;
+		height:30px;
+		width:90px;
+	}
+	.tbl-cus{
+		margin-top: 5px;
+		background:#F8F8F8;
+		margin-left:-10px;
+	}
+	.tbl-cus td{
+		text-align:center;
+	}
+/*Sales Report Page 
+-----------------------------------------------------------------------------*/	
+	.sales_report{
+		width:90%;
+		padding: 20px;
+		font-size:1.5em;
+		text-align:center;
+		background:#F8F8F8;
+	}
+	.sales_grap{
+		margin-top:10px;
+		width:92%;
+	}
+	.top_right{
+		margin-left: 38%;
+	}
+	
