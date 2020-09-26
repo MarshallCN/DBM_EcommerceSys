@@ -23,5 +23,5 @@
 
 <a name="design"></a>
 # Design Docs
-![erd](/design/ERD.jpg)
-![site](/design/site_map.jpg) 
+![erd](/design/ERD.png)
+![site](/design/site_map.png) 
